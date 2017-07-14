@@ -1,7 +1,7 @@
 import * as React from "react";
 
 type ButtonState = {}
-export type ButtonProps = { 
+type ButtonProps = { 
     onClickFunction: any 
 }
 

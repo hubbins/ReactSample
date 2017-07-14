@@ -1,6 +1,6 @@
 import * as React from "react";
 
-export type ResultProps = {
+type ResultProps = {
     counter: number;
 }
 
